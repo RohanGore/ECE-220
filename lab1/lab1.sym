@@ -1,0 +1,14 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	NEXT_DIGIT        3005
+//	NEXT_BIT          300B
+//	ADD_ONE           3012
+//	LEFT_SHIFT        3013
+//	DIGIT             3016
+//	DECIMAL           301F
+//	OUTPUT            3023
+//	END               3026
+//	STRING            3027
+
